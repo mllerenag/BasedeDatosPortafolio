@@ -1,0 +1,4 @@
+ALTER TABLE [dbo].[TBL_PROGRAMA]
+ADD fl_activo bit NOT NULL DEFAULT(1)
+GO
+
